@@ -19,4 +19,4 @@ A Python tool to calculate Lipinski's Rule of Five properties for chemical compo
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/Lipinski_Calculator.git
-cd LipinskiRuleCalculator
+cd Lipinski_Calculator
